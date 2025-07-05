@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "tdesign-react": "^1.12.3"
+    "tdesign-react": "https://pkg.pr.new/tdesign-react@3640"
   },
   "devDependencies": {
     "@eslint/js": "^9.29.0",

@@ -15,8 +15,8 @@ importers:
         specifier: ^19.1.0
         version: 19.1.0(react@19.1.0)
       tdesign-react:
-        specifier: ^1.12.3
-        version: 1.12.3(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+        specifier: https://pkg.pr.new/tdesign-react@3640
+        version: https://pkg.pr.new/tdesign-react@3640(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
     devDependencies:
       '@eslint/js':
         specifier: ^9.29.0
@@ -1089,8 +1089,9 @@ packages:
       react: '>=16.13.1'
       react-dom: '>=16.13.1'
 
-  tdesign-react@1.12.3:
-    resolution: {integrity: sha512-zpGPUrxoGvK3ZMFIAM1GmFI2LEYzPfQSALK0egR/RSGuVaQmNSqgonGATz0N1/quAqlZjdRqVH5w6IOJ5ruyKA==}
+  tdesign-react@https://pkg.pr.new/tdesign-react@3640:
+    resolution: {tarball: https://pkg.pr.new/tdesign-react@3640}
+    version: 1.12.3
     peerDependencies:
       react: '>=16.13.1'
       react-dom: '>=16.13.1'
@@ -2184,7 +2185,7 @@ snapshots:
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
 
-  tdesign-react@1.12.3(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
+  tdesign-react@https://pkg.pr.new/tdesign-react@3640(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
     dependencies:
       '@babel/runtime': 7.26.10
       '@popperjs/core': 2.11.8
